@@ -1,0 +1,5 @@
+email link:- https://app.powerbi.com/view?r=eyJrIjoiZjc2MzQ4YTUtMGViMS00MDExLTgxYzgtZjc5MmNhOGE4MTRlIiwidCI6IjQ4OGZjOWE4LTU0ZDEtNGJjYS1hYmRiLTUzNmIyNTMxM2ZmZiJ9
+
+website embed code:- 
+
+<iframe title="HealthCare-Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjc2MzQ4YTUtMGViMS00MDExLTgxYzgtZjc5MmNhOGE4MTRlIiwidCI6IjQ4OGZjOWE4LTU0ZDEtNGJjYS1hYmRiLTUzNmIyNTMxM2ZmZiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
