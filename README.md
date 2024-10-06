@@ -13,6 +13,8 @@ This Power BI project visualizes patient wait list data, enabling detailed analy
 - **Specialty and Age Profiles**: Analyze patient distribution across specialties like Accident & Emergency and Anaesthetics, broken down by age profiles (0-15, 16-64, 65+).
 - **Time Bands Visualization**: A dynamic representation of time spent in the system for different patient age groups, helping to uncover bottlenecks and highlight areas needing improvement.
 - **Performance Metrics**: Key performance indicators (KPIs) display the total wait list counts for both the current and previous year, allowing easy comparison of healthcare performance over time.
+- **Data Model Optimization**: Designed a data model with fact and dimension tables to streamline query performance and enhance reporting efficiency in Power BI.
+
 
 ## Visual Breakdown
 
