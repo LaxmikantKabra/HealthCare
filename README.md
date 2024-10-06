@@ -1,4 +1,4 @@
-# Patient Wait List Analysis Dashboard
+# Health Care - Patient Wait List Analysis Dashboard
 
 <h2><a href="https://app.powerbi.com/view?r=eyJrIjoiZjc2MzQ4YTUtMGViMS00MDExLTgxYzgtZjc5MmNhOGE4MTRlIiwidCI6IjQ4OGZjOWE4LTU0ZDEtNGJjYS1hYmRiLTUzNmIyNTMxM2ZmZiJ9" target="_blank">PowerBI Dashboard Link</a></h2>
 
